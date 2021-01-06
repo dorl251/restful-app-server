@@ -6,13 +6,13 @@
 
 <br/>
 
-자세한 구축 과정은링크에서 확인할 수 있습니다.
+자세한 구축 과정은 링크에서 확인할 수 있습니다.
 
 젠킨스 구축 과정 :
 
 1. [AWS EC2에 Jenkins 설치](https://jeonghoon.netlify.app/Jenkins/aws_jenkins/)
-2. [AWS Codeploy와 S3, Github를 이용해 Jenkins CI 구축하기(1)](https://jeonghoon.netlify.app/Jenkins/jenkins-codedeploy/)
-3. [AWS Codeploy와 S3, Github를 이용해 Jenkins CI 구축하기(2)](https://jeonghoon.netlify.app/Jenkins/jenkins-codedeploy2/)
+2. [AWS Codeploy와 S3, Github를 이용해 Jenkins CI/CD 구축하기(1)](https://jeonghoon.netlify.app/Jenkins/jenkins-codedeploy/)
+3. [AWS Codeploy와 S3, Github를 이용해 Jenkins CI/CD 구축하기(2)](https://jeonghoon.netlify.app/Jenkins/jenkins-codedeploy2/)
 
 스프링 부트 구축 과정 : https://jeonghoon.netlify.app/?category=Spring
 
