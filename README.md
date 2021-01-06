@@ -6,9 +6,17 @@
 
 <br/>
 
-스프링 부트 구축 내용 : https://jeonghoon.netlify.app/?category=Spring
+자세한 구축 과정은링크에서 확인할 수 있습니다.
 
-젠킨스 구축 내용 : https://jeonghoon.netlify.app/?category=Jenkins
+젠킨스 구축 과정 :
+
+1. [AWS EC2에 Jenkins 설치](https://jeonghoon.netlify.app/Jenkins/aws_jenkins/)
+2. [AWS Codeploy와 S3, Github를 이용해 Jenkins CI 구축하기(1)](https://jeonghoon.netlify.app/Jenkins/jenkins-codedeploy/)
+3. [AWS Codeploy와 S3, Github를 이용해 Jenkins CI 구축하기(2)](https://jeonghoon.netlify.app/Jenkins/jenkins-codedeploy2/)
+
+스프링 부트 구축 과정 : https://jeonghoon.netlify.app/?category=Spring
+
+<br/>
 
 ## 기능
 
@@ -18,10 +26,12 @@
 - HTTP 상태코드 제어
 - 유효성 체크
 - 다국어 처리
-- Response 데이터 형식 변환
-- Response 데이터 제어 필터링
+- Response 데이터 형식 변환 및 필터링
 - Rest API 버전 관리
 - Spring Security 인증처리
+- Hateoas로 하이퍼미디어 처리
+- Swagger 개발자 API 문서 작성
+- JPA로 CRUD 및 게시판 일부 구현
 
 <br/>
 
