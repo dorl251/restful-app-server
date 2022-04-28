@@ -6,8 +6,5 @@ files:
     destination: /home/ec2-user
 
 hooks:
-  ApplicationStop:
-    - location: Scripts/kill_process.sh
-
   ApplicationStart:
     - location: Scripts/run_process.sh
